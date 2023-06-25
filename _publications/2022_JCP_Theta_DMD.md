@@ -11,7 +11,7 @@ citation: 'Binghua Li, Jesús Garicano-Mena, Eusebio Valero. (2022) "A dynamic m
 
 **Binghua Li**, Jesús Garicano-Mena and Eusebio Valero
 
-[[pdf]](http://binghua-li.github.io/files/2022_Theta_DMD_JCP_BinghuaLi.pdf)
+[[PDF]](http://binghua-li.github.io/files/2022_Theta_DMD_JCP_BinghuaLi.pdf)
 
 ## Key Point
 Describing Koopman assumption with a 𝜃-weighted finite-difference discrete relation of consecutive snapshots included with time interval, to make DMD possible to handling non-uniformly sampled data.
