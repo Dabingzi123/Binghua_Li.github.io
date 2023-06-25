@@ -11,5 +11,3 @@ citation: 'Binghua Li, Jesús Garicano-Mena, Yao Zheng, Eusebio Valero. (2020) "
 Using machine learning (e.g. clustering algorithms) and compress sensing theory to reduce the data size of turbulent flow spatially/temporally, make it possible to apply DMD on large flow datasets.
 
 [Download here](http://binghua-li.github.io/files/2020_Agglomeration_DMD_Energies_BinghuaLi.pdf)
-
-Recommended citation: Binghua Li, Jesús Garicano-Mena, Yao Zheng, Eusebio Valero. (2020) "Dynamic Mode Decomposition Analysis of Spatially Agglomerated Flow Databases" <i>Energies</i>. 13(9):2134.
