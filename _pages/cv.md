@@ -12,15 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D. in Aeronautic Engineering, Polytechnic University of Madrid (UPM), Sept 2018 - Feb 2022
+  * Supervisor: [Prof. Eusebio Valero](https://www.linkedin.com/in/eusebio-valero-b10b7a51/) and [Dr. Jesús Garicano-Mena](https://www.linkedin.com/in/jes%C3%BAs-garicano-mena-84310923/).
 * Ph.D. in Fluid Mechanics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
+  * Supervisor: [Prof. Yao Zheng](https://person.zju.edu.cn/en/YaoZheng).
 * B.Sc. in Aircraft Design and Engineering, Northwestern Polytechnical University (NPU), Sept 2011 - July 2015
+  * Supervisor: Min Xu and Xiaomin An.
 
 Work experience
 ======
 * Spring 2022: Post Doctor
   * Zhejiang University
   * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
-  * Supervisor: Professor [Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
+  * Supervisor: Prof. [Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
 
 * Fall 2021: AI algorithms engineer
   * The China Financial Futures Exchange
@@ -48,11 +51,11 @@ Publications
 
 Academic Advising
 ======
-* Design Optimization of Fan Blade Using RBF‑based Neural Network.
-  * Zhen Fu, master thesis in ZJU, Jun 2023
+* Design Optimization of Fan Blade Using RBF‑based Neural Network, Jun 2023
+  * Zhen Fu, master thesis at ZJU
   * Co-supervised with Prof. Jiaqi Luo.
-* On the application of variants of the DMD and POD algorithms for the analysis of Turbulent Channel Flow.
-  * Xiyu Wang, bachelor thesis in NPU, Jun 2019
+* On the application of variants of the DMD and POD algorithms for the analysis of Turbulent Channel Flow, Jun 2019
+  * Xiyu Wang, bachelor thesis at NPU
   * Co-supervised with Dr. Jesús Garicano-mena.
 
 Journal Reviewer
