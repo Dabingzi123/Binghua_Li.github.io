@@ -23,12 +23,12 @@ Work experience
 * Spring 2022: Post Doctor
   * Zhejiang University
   * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
-  * Supervisor: Prof. [Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
+  * Supervisor: [Prof. Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
 
 * Fall 2021: AI algorithms engineer
   * The China Financial Futures Exchange
   * Duties included: R&D of NLP algorithms on large text content
-  * Supervisor: Dr. Zhongchen Miao
+  * Supervisor: [Dr. Zhongchen Miao](https://www.linkedin.com/in/zhongchen-miao-a02b432b/)
   
 Skills
 ======
