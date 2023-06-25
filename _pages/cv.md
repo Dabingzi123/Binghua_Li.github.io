@@ -11,46 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Aeronautic Engineering, School of Aeronautics and Space, Polytechnic University of Madrid (UPM), Sept 2018 - Feb 2022
+* Ph.D. in Fluid Mechanics, School of Aeronautics and Astronautics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
+* B.Sc. in Aircraft Design and Engineering, School of Astronautics, Northwestern Polytechnical University (NPU), Sept 2011 - July 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Spring 2022: Post Doctor
+  * Zhejiang University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor [Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: AI algorithms engineer
+  * The China Financial Futures Exchange
+  * Duties included: R&D of NLP algorithms on large text content
+  * Supervisor: Dr. Zhongchen Miao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (Pandas, PyTorch, NumPy, Scikit‑learn. etc.)
+  * MATLAB
+  * Fortran
+* Productivity
+  * ANSYS, Linux, Shell (Bash/Zsh), Git.
+  * LaTex(Overleaf/Markdown), Microsoft Oﬀice
+* Languages
+  * English: IELTS B2
+  * Spanish: UPM Language Center B1.1
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
