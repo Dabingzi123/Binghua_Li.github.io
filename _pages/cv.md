@@ -48,13 +48,12 @@ Publications
 
 Academic Advising
 ======
-* On the application of variants of the DMD and POD algorithms for the analysis of Turbulent Channel Flow.
-  * Xiyu Wang, bachelor thesis in NPU
-  * Co-supervised with Dr. Jesús Garicano-mena.
-  * 
 * Design Optimization of Fan Blade Using RBF‑based Neural Network.
-  * Zhen Fu, master thesis in ZJU
+  * Zhen Fu, master thesis in ZJU, Jun 2023
   * Co-supervised with Prof. Jiaqi Luo.
+* On the application of variants of the DMD and POD algorithms for the analysis of Turbulent Channel Flow.
+  * Xiyu Wang, bachelor thesis in NPU, Jun 2019
+  * Co-supervised with Dr. Jesús Garicano-mena.
 
 Journal Reviewer
 ======
@@ -63,9 +62,9 @@ Journal Reviewer
 
 Honors and Awards
 ======
-* 2022      Sobresaliente cum laude(Outstanding with highest honors), UPM Graduate Record
-* 2018      Joint training PhD candidate Funding, China Scholarship Council Annual Program
-* 2017      Excellent PhD Candidate Position Grants, ZJU PhD Candidate Mid‑term Defence
-* 2015      Meritorious Winner (Global Top 2%), Interdisciplinary Contest in Modeling of America (ICM)
-* 2013      Outstanding Winner and Special‑class Scholarship (Top 10/all), NPU Undergraduates Annual Defence
-* 2012      National Scholarship, Ministry of Education of the People’s Republic of China
+* 2022      **Sobresaliente cum laude(Outstanding with highest honors)**, UPM Graduate Record
+* 2018      **Joint training PhD candidate Funding**, China Scholarship Council Annual Program
+* 2017      **Excellent PhD Candidate Position Grants**, ZJU PhD Candidate Mid‑term Defence
+* 2015      **Meritorious Winner (Global Top 2%)**, Interdisciplinary Contest in Modeling of America (ICM)
+* 2013      **Outstanding Winner and Special‑class Scholarship (Top 10/all)**, NPU Undergraduates Annual Defence
+* 2012      **National Scholarship**, Ministry of Education of the People’s Republic of China
