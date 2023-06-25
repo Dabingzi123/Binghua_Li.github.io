@@ -8,6 +8,9 @@ venue: 'Physics of Fluids'
 paperurl: 'http://dx.doi.org/10.1063/1.5119342'
 citation: 'Jesús Garicano-Mena, Binghua Li, Esteban Ferrer, Eusebio Valero. (2019) "A composite dynamic mode decomposition analysis of turbulent channel flows" <i>Physics of Fluids</i>. 31(11):115102.'
 ---
-Considering a composite input of variables (e.g. $C_f-u'v'$) to DMD and give an eﬀicient factor to find few modes that related to the physics/parameters that one may concern.
+Jesús Garicano-Mena, **Binghua Li**, Esteban Ferrer, Eusebio Valero
 
-[Download here](http://binghua-li.github.io/files/2019_Composite_DMD_PoF_Jesus.pdf)
+[[PDF]](http://binghua-li.github.io/files/2019_Composite_DMD_PoF_Jesus.pdf)
+
+## Key point
+Considering a composite input of variables (e.g. $C_f-u'v'$) to DMD and give an eﬀicient factor to find few modes that related to the physics/parameters that one may concern.
