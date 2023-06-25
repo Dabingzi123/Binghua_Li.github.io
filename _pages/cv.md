@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Aeronautic Engineering, School of Aeronautics and Space, Polytechnic University of Madrid (UPM), Sept 2018 - Feb 2022
-* Ph.D. in Fluid Mechanics, School of Aeronautics and Astronautics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
-* B.Sc. in Aircraft Design and Engineering, School of Astronautics, Northwestern Polytechnical University (NPU), Sept 2011 - July 2015
+* Ph.D. in Aeronautic Engineering, Polytechnic University of Madrid (UPM), Sept 2018 - Feb 2022
+* Ph.D. in Fluid Mechanics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
+* B.Sc. in Aircraft Design and Engineering, Northwestern Polytechnical University (NPU), Sept 2011 - July 2015
 
 Work experience
 ======
 * Spring 2022: Post Doctor
   * Zhejiang University
-  * Duties included: Tagging issues
+  * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
   * Supervisor: Professor [Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
 
 * Fall 2021: AI algorithms engineer
