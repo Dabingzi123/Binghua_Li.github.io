@@ -85,9 +85,9 @@ author:
   bio              : "Researcher on turbulent flow control and Data-Driven methods"
   location         : "Hangzhou"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=j0yqNNgAAAAJ"
-  email            :
+  email            : "binghua.li@alumnos.upm.es"
   researchgate     :  "https://www.researchgate.net/profile/Binghua-Li"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/binghua-li"
   orcid            : "https://orcid.org/0000-0003-2910-122X"
   pinterest        :
   soundcloud       :
