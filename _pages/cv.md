@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Aeronautic Engineering, Polytechnic University of Madrid (UPM), Sept 2018 - Feb 2022
-  * Thesis: Dynamic Mode Decomposition Based Algorithms as Feature Detection Techniques:Application to Large Flow Databases.[DOI](https://doi.org/10.20868/UPM.thesis.69913)
+  * Thesis: Dynamic Mode Decomposition Based Algorithms as Feature Detection Techniques:Application to Large Flow Databases.[[DOI](https://doi.org/10.20868/UPM.thesis.69913)]
   * Supervisor: [Prof. Eusebio Valero](https://www.linkedin.com/in/eusebio-valero-b10b7a51/) and [Dr. Jesús Garicano-Mena](https://www.linkedin.com/in/jes%C3%BAs-garicano-mena-84310923/).
 * Ph.D. in Fluid Mechanics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
   * Thesis: Feature Extraction Method of Turbulent Boundary Layer and Its Applications Based on Dynamic Mode Decomposition.
