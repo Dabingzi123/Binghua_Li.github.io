@@ -16,7 +16,7 @@ Education
 * Ph.D. in Fluid Mechanics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
   * Supervisor: [Prof. Yao Zheng](https://person.zju.edu.cn/en/YaoZheng).
 * B.Sc. in Aircraft Design and Engineering, Northwestern Polytechnical University (NPU), Sept 2011 - July 2015
-  * Supervisor: Min Xu and [Prof. Xiaomin An](https://teacher.nwpu.edu.cn/anxiaomin.html)([EN](https://teacher.nwpu.edu.cn/en/anxiaomin.html)).
+  * Supervisor: Prof. Min Xu and [Prof. Xiaomin An](https://teacher.nwpu.edu.cn/anxiaomin.html)([EN](https://teacher.nwpu.edu.cn/en/anxiaomin.html)).
 
 Work experience
 ======
