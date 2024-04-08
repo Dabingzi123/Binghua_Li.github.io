@@ -16,22 +16,22 @@ Education
   * Supervisor: [Prof. Eusebio Valero](https://www.linkedin.com/in/eusebio-valero-b10b7a51/) and [Dr. Jesús Garicano-Mena](https://www.linkedin.com/in/jes%C3%BAs-garicano-mena-84310923/).
 * Ph.D. in Fluid Mechanics, Zhejiang University (ZJU), Sept 2015 - Sept 2021
   * Thesis: Feature Extraction Method of Turbulent Boundary Layer and Its Applications Based on Dynamic Mode Decomposition.
-  * Supervisor: [Prof. Yao Zheng](https://person.zju.edu.cn/en/YaoZheng).
+  * Supervisor: Prof. Yao Zheng ([CN](https://person.zju.edu.cn/en/YaoZheng)/[EN](https://person.zju.edu.cn/en/0001071)).
 * B.Sc. in Aircraft Design and Engineering, Northwestern Polytechnical University (NPU), Sept 2011 - July 2015
   * Thesis: Aerodynamic Shape Optimization Design of Aircraft Based on Genetic Algorithm.
-  * Supervisor: Prof. Min Xu and [Prof. Xiaomin An](https://teacher.nwpu.edu.cn/anxiaomin.html)([EN](https://teacher.nwpu.edu.cn/en/anxiaomin.html)).
+  * Supervisor: Prof. Min Xu and Prof. Xiaomin An ([CN](https://teacher.nwpu.edu.cn/anxiaomin.html)/[EN](https://teacher.nwpu.edu.cn/en/anxiaomin.html)).
 
 Work experience
 ======
 * Spring 2024: Lecturer
   * Beihang University
   * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
-  * Collaborator: [Prof. Rui Kang](https://ev.buaa.edu.cn/info/1090/2057.htm)
+  * Collaborator: Prof. Rui Kang ([CN](https://shi.buaa.edu.cn/kangrui/zh_CN/index.htm)/[EN](https://ev.buaa.edu.cn/info/1090/2057.htm))
 
 * Spring 2022: Post Doctor
   * Zhejiang University
   * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
-  * Supervisor: [Prof. Jiaqi Luo](https://person.zju.edu.cn/en/0018086)
+  * Supervisor: Prof. Jiaqi Luo ([CN](https://person.zju.edu.cn/0018086)/[EN](https://person.zju.edu.cn/en/0018086))
 
 * Fall 2021: AI algorithms engineer
   * The China Financial Futures Exchange
