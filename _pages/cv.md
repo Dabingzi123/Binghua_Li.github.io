@@ -23,6 +23,11 @@ Education
 
 Work experience
 ======
+* Spring 2024: Lecturer
+  * Beihang University
+  * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
+  * Collaborator: [Prof. Rui Kang](https://ev.buaa.edu.cn/info/1090/2057.htm)
+
 * Spring 2022: Post Doctor
   * Zhejiang University
   * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
@@ -64,6 +69,7 @@ Academic Advising
 Journal Reviewer
 ======
 * Physics of Fluid
+* Ocean Engineering
 * Energies
 
 Honors and Awards
