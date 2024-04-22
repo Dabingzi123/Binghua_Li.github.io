@@ -23,9 +23,9 @@ Education
 
 Work experience
 ======
-* Spring 2024: Lecturer
+* Spring 2024: Interim Associate Professor
   * Beihang University
-  * Duties included: Study on multiphase flow simulation of smoke in porous filters and development of filter product design models
+  * Duties included: Study on data-driven feature extraction methods and application of fluid mechanics on reliability theory
   * Collaborator: Prof. Rui Kang ([CN](https://shi.buaa.edu.cn/kangrui/zh_CN/index.htm)/[EN](https://ev.buaa.edu.cn/info/1090/2057.htm))
 
 * Spring 2022: Post Doctor
